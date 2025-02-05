@@ -1,0 +1,14 @@
+{
+    "Samsung TV": {
+        "Very Bad": 31,
+        "Bad": 20,
+        "Good": 50,
+        "Very Good": 20
+    },
+    "Hitachi AC": {
+        "Very Bad": 10,
+        "Bad": 10,
+        "Good": 21,
+        "Very Good": 10
+    }
+}
